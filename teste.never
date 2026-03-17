@@ -1,0 +1,12 @@
+print "isso é apenas um programa de teste feito em NEVER a minha linguagem de programação!"
+
+print ""
+
+print "você tem aura?:"
+var aura = input
+
+print ""
+
+print "você digitou:"
+print v: aura
+var so para não fechar = input
